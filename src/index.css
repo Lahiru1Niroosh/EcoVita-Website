@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Arizonia&display=swap');
+
+
+
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@keyframes spin{
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+.spin {
+    animation: spin 40s linear infinite;
+}
+.loader {
+    border-top-color: #2f855a; /* Green shade matching your theme */
+    animation: spinner 1.5s linear infinite;
+  }

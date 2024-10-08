@@ -19,6 +19,9 @@ EcoVita is a responsive web application designed to promote organic wellness and
 - **API Integration**: Dynamic blog content fetched from the Sling Academy API.
 - **Version Control**: Git and GitHub for source code management.
 
+## Weblink
+- Live Preview : https://eco-vita.netlify.app/
+
 ## Getting Started
 
 To run this project locally, follow these steps:
